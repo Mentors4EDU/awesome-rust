@@ -5,5 +5,6 @@
 3. [art-lib](https://crates.io/crates/art_lib)
 4. [crypto](https://crates.io/crates/crypto)
 5. [cipher](https://crates.io/crates/cipher)
-6. [solana-sdk](https://crates.io/crates/solana-sdk)
-7. [decentralized-internet](https://crates.io/crates/decentralized-internet)
+6. [tor-llcrypto](https://crates.io/crates/tor-llcrypto)
+7. [solana-sdk](https://crates.io/crates/solana-sdk)
+8. [decentralized-internet](https://crates.io/crates/decentralized-internet)
