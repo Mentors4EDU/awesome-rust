@@ -16,4 +16,5 @@
 14. [ambisonic](https://crates.io/crates/ambisonic)
 15. [tor-llcrypto](https://crates.io/crates/tor-llcrypto)
 16. [solana-sdk](https://crates.io/crates/solana-sdk)
-17. [decentralized-internet](https://crates.io/crates/decentralized-internet)
+17. [html-outliner](https://crates.io/crates/html-outliner)
+18. [decentralized-internet](https://crates.io/crates/decentralized-internet)
